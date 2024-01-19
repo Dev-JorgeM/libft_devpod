@@ -23,7 +23,7 @@ services:
       - ../42header.env
 
     ports:
-      - '2322:22'
+      - '2422:22'
 
 volumes:
   debug:
